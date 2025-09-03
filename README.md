@@ -1,4 +1,4 @@
-- 👋 Hello, you can refer to me as @inoperatingsytem or Albert
+- 👋 Hello, you can refer to me as @inoperatingsystem or albert
 - 🏫 I'm an undergrad CS student at Universitas Indonesia
 - 👀 I'm interested in app development, artificial intelligence, and operating system
 - 🌱 I'm currently learning Java, Python, Django, C
